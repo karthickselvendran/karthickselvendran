@@ -13,7 +13,7 @@ I'm currently working as a <b>MERN Stack Developer</b>. I'm a passionate develop
 
 <h1 align="center">Tech-Stack</h1>
 
-I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with React Js, Node Js, Express Js, JavaScript, SQL and so on. So these tech stacks make my friends believe in me as a good lead!
+I have great enthusiasm in new innovative technologies and I love to learn and leverage such stuff. I have passionate about creating an impact in the community. I have a strong technical understanding of computer programming languages and frameworks. I have worked with React Js, Node Js, Express Js, MongoDB and so on. So these tech stacks make my friends believe in me as a good lead!
 
 <p align="center"> 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
