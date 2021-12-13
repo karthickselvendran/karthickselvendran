@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey 👋, I'm Karthick!</h1>
 
-I'm currently completed my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source. I have always been passionate about technology. I'm a person who loves to take challenges !!
+I'm currently working as a <b>MERN Stack Developer</b>, Trichy. I'm a passionate developer and have a huge enthusiasm in developing MERN Stack projects. I have always been passionate about technology. I'm a person who loves to take challenges !!
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=karthickselvendran&label=Profile%20views&color=ce9927&style=flat" alt="karthickselvendran" /> </p>
